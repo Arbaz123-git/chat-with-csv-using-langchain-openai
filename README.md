@@ -8,6 +8,12 @@ Further more , I have kept the interface simple and the previous questions asked
 
 So that the user knows what all questions he has asked and which questions he has not. 
 
+app.py file contains the code to chat with csv without having conversational history present in it.
+
+example.py file contains the code to chat with csv with having conversational history present.
+
+apikey.py contains the OPENAI API key.
+
 
 
 
